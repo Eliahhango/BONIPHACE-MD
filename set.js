@@ -14,7 +14,7 @@ module.exports = { session: process.env.SESSION_ID || 'eyJub2lzZUtleSI6eyJwcml2Y
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "non",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
     BOT : process.env.BOT_NAME || 'EliTechWiz MD',
-    URL : process.env.BOT_MENU_LINKS || 'https://telegra.ph/file/5462ea7070b61eb790caa.jpg',
+    URL : process.env.BOT_MENU_LINKS || 'https://telegra.ph/file/d0f8c8d424818eeb63b47.mp4',
     MODE: process.env.PUBLIC_MODE || "yes",
     PM_PERMIT: process.env.PM_PERMIT || 'no',
     HEROKU_APP_NAME : process.env.HEROKU_APP_NAME,
